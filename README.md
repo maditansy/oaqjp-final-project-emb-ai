@@ -7,11 +7,11 @@ A web application that allows users to input text to see the emotion of the text
 - Deploy a Python web app with Flask
 
 ## To run:
-1) In Terminal:
+-Runs on localhost:5000
 ```bash
 cd final_project
 python3.11 -m pip install requests
 python3.11 server.py
 ```
-localhost: 5000
+
 
